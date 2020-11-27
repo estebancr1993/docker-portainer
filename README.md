@@ -7,7 +7,8 @@ La imagen a estudiar se encuentra en Docker Hub como :
 **portainer/portainer-ce**
 
 ## Índice
-1. [Introducción]:https://github.com/estebancr1993/docker-portainer/blob/main/instalacion.md
+1.[Introducción](https://github.com/estebancr1993/docker-portainer/blob/main/instalacion.md)
+
 2. Instalación
 3. Acceso 
 4. Descripción del panel de control.
