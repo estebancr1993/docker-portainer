@@ -10,6 +10,6 @@ de uno (o varios) endpoints <sup>2</sup> Docker (o Docker Swarm).
 
 ---
 
-1 ###### Docker Swarm: Un Docker Swarm es un grupo de máquinas físicas o virtuales que ejecutan la aplicación Docker y que se han configurado para unirse en un clúster.
+###### <sup>1</sup> Docker Swarm: Un Docker Swarm es un grupo de máquinas físicas o virtuales que ejecutan la aplicación Docker y que se han configurado para unirse en un clúster.
 
-2 ###### endpoints: Un EndPoint es un dispositivo informático remoto que se comunica con una red a la que está conectado. 
+###### <sup>2</sup> endpoints: Un EndPoint es un dispositivo informático remoto que se comunica con una red a la que está conectado. 
