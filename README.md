@@ -1,10 +1,10 @@
 # Proyecto: docker-portainer
-* ---Despliegue de contenedores con Portainer---
+*---Despliegue de contenedores con Portainer---*
 ## Descripción:
 El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 La imagen a estudiar se encuentra en Docker Hub como :
 
-**portainer/portainer-ce
+**portainer/portainer-ce**
 
 ## Índice
 1. Introducción
