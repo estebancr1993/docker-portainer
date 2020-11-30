@@ -19,3 +19,6 @@ Utilice los siguientes comandos de Docker para implementar Portainer Server; ten
 
 ***Nota 2:*** *la opción* ***-v /var/run/docker.sock:/var/run/docker.sock*** *solo se puede utilizar en entornos Linux.*
 
+---
+
+[ATRAS](https://github.com/estebancr1993/docker-portainer)
