@@ -10,6 +10,6 @@ Añadir una password (debe tener al menos 8 caracteres).
 
 Elegir la opción deseada, en nuestro caso Docker.
 
-
+---
 
 [ATRAS](https://github.com/estebancr1993/docker-portainer)
