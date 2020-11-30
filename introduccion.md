@@ -1,4 +1,4 @@
-#### Introducción docker-portainer
+### Introducción docker-portainer
 
 **Portainer** es una herramienta ligera y open-source de gestión de contenedores sobre Docker (o Docker Swarm <sup>1</sup>). 
 Portainer ofrece una interfaz gráfica para gestionar el host Docker desde cualquier navegador, y se puede desplegar como un simple contenedor.
