@@ -8,3 +8,8 @@ Añadir una password (debe tener al menos 8 caracteres).
 
 ![acesso2](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/acceso2.png)
 
+Elegir la opción deseada, en nuestro caso Docker.
+
+
+
+[ATRAS](https://github.com/estebancr1993/docker-portainer)
