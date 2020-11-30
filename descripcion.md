@@ -5,6 +5,7 @@
 ### Contenido
 
 **Home:** Ofrece las últimas noticias de Portainer e información de los endpoints, que en nuestro caso sólo locales.
+
 ![home](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/home.JPG)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
