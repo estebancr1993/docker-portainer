@@ -9,7 +9,7 @@ La imagen a estudiar se encuentra en Docker Hub como :
 ## Índice
 1. [Introducción](https://github.com/estebancr1993/docker-portainer/blob/main/introduccion.md)
 
-2. Instalación
+2. [Instalación](https://github.com/estebancr1993/docker-portainer/blob/main/instalacion.md)
 3. Acceso 
 4. Descripción del panel de control.
 5. Despliegue de un contenedor httpd con una paǵina personalizada y mapeaa por el puerto 8082.
