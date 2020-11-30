@@ -13,7 +13,7 @@ Utilice los siguientes comandos de Docker para implementar Portainer Server; ten
 
 >$ docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 
-***Solo necesitará acceder al puerto 9000 del motor Docker donde se ejecuta portainer usando su navegador.***
+***Solo necesitará acceder al puerto 9000 del motor Docker donde se ejecuta portainer usando su navegador, con la dirección http://localhost:9000***
 
 ***Nota:*** *El puerto 9000 es el puerto general utilizado por Portainer para el acceso a la interfaz de usuario. El puerto 8000 es utilizado exclusivamente por el agente EDGE para la función de túnel inverso. Si no planea utilizar el agente de borde, no necesita exponer el puerto 8000*
 
