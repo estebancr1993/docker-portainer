@@ -6,4 +6,5 @@ Si la instalación ha sido correcta la forma de acceder es por el navegador poni
 
 Añadir una password (debe tener al menos 8 caracteres).
 
+![acesso2](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/acceso2.png)
 
