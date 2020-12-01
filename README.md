@@ -31,4 +31,4 @@ La imagen a estudiar se encuentra en Docker Hub como :
 
 ---
 
-[LICENCIA](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/Licencia-5.png)
+![LICENCIA](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/Licencia-5.png)
