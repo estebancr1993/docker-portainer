@@ -17,6 +17,14 @@ La imagen a estudiar se encuentra en Docker Hub como :
 
 ## Conclusión
 
+> Yo pienso que es una buena herramienta para facilitar la administración y uso de docker, ciertamente está creado para aquellas personas que se sientan más comodas con un entorno gráfico que con línea de comandos. Incluso podría ser usado por una pequeña o mediana empresa debido al gran despliegue y avances que tiene. —Es una herramienta devops, siempre útil y bienvenida.
 
 ## Referencias
 
+[Markdown](https://markdown.es/sintaxis-markdown/)
+
+[Instalación](https://www.portainer.io/installation/)
+
+[Video1](https://www.youtube.com/watch?v=TSot5AnS-mk&feature=youtu.be)
+
+[Video2](https://www.youtube.com/watch?v=53BcgLdzgVc)
